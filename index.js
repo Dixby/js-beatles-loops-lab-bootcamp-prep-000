@@ -1,3 +1,3 @@
-function johnLennonFacts(array) {
+function theBeatlesPlay(musicians, instruments) {
   
 }
